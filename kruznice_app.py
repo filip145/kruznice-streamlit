@@ -11,7 +11,7 @@ page = st.sidebar.radio("Vyberte stránku:", ["Generátor kružnice", "O autorov
 
 # Default author info
 author_name = "Filip Zouhar"
-author_email = "filip.zouhar@example.com"
+author_email = "278567@vutbr.cz"
 
 # Page: Generátor kružnice
 if page == "Generátor kružnice":
